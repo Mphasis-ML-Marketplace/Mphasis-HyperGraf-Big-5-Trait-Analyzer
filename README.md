@@ -11,4 +11,4 @@ The Big 5 personality analyzer takes input text from a user and assigns score on
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](Marketplace Link to the listing. Update this once it is published. Example: )
+The product can be found [https://aws.amazon.com/marketplace/pp/prodview-oajlgi5xhebba?qid=1617339641318&sr=0-2&ref_=srh_res_product_title]
